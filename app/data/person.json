@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Pmani",
+      "age": 26,
+      "character": "Good",
+      "address": ["Tamil Nadu", "Chennai", "Avadi"],
+      "skills": ["c", "c++"],
+      "image":
+        "https://img.freepik.com/premium-photo/trees-growing-forest_1048944-30368869.jpg?w=1480",
+    },
+    {
+      "name": "PmaniKandan",
+      "age": 25,
+      "character": "Great",
+      "address": ["Tamil Nadu", "Chennai", "Avadi"],
+      "skills": ["c", "c++"],
+      "image":
+        "https://img.freepik.com/premium-photo/squirrel-sitting-tree-branch_1048944-30371835.jpg?w=1480",
+    },
+    {
+      "name": "Pmanu",
+      "age": 27,
+      "character": "Helping...",
+      "address": ["Tamil Nadu", "Chennai", "Avadi"],
+      "skills": ["c", "c++"],
+      "image":
+        "https://img.freepik.com/premium-photo/full-shot-kid-father-living-countryside_23-2150642400.jpg?w=1480",
+    }
+  ]

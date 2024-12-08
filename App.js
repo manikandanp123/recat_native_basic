@@ -30,10 +30,10 @@ export default function App() {
   // return <Position />;
   // return <PlatformScreen />;
   // return <PersonCard />;
-  // return <FormScreen />;
+  return <FormScreen />;
   // return <ApiGet />;
   // return <Stack />;
   // return <Drawer />;
-  return <Tab />;
+  // return <Tab />;
 }
 const styles = StyleSheet.create({});
